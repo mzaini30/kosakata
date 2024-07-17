@@ -35,7 +35,7 @@
 
 # Tempat Praktek Islah
 
-- Trimester 1 : Masjid (Putri : Asrama)
+- Trimester 1 : Masjid (Putri : Musolla)
 - Trimester 2 : +Asrama
 - Trimester 3 : +Kelas
 - Trimester 4 : +Lapangan
