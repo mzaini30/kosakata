@@ -42,7 +42,7 @@
 
 ---
 
-# Iqob di tempat, push up 5 kali
+# Iqob di tempat, push up 5 kali (putri : Scout Jump 5 kali)
 
 ## Iqob pas muhasabah, sesuka hati pemimpin muhasabah
 
